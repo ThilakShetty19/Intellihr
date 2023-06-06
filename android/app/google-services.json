@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918487696975",
+    "project_id": "intellihr-c7336",
+    "storage_bucket": "intellihr-c7336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918487696975:android:b983170489788a8abb8c3a",
+        "android_client_info": {
+          "package_name": "com.example.intellihr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918487696975-bkbduv6q2de1qs627spdeeq4gj7v94qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4jephO7E7ua0kRWoAynkigzY4t8t7RCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918487696975-bkbduv6q2de1qs627spdeeq4gj7v94qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
